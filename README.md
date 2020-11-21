@@ -1,1 +1,1 @@
-This is a tutorial from Udemy to solify my knowledge of CSS grid.
+This is a tutorial from Udemy to solidify my knowledge of CSS grid.
